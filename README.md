@@ -18,3 +18,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+### Technologies Used
+
+React, Javascript, Bootstrap, HTML5, CSS
+
+#### UI Representation
+
+https://drive.google.com/file/d/17fhGS2dMlTIve8gGWeh2vBv8S5ufFKAC/view?usp=sharing 
